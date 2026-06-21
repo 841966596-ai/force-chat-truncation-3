@@ -1,11 +1,11 @@
 {
-  "manifest_version": 1,
-  "id": "force-chat-truncation-3",
-  "display_name": "强制消息加载数=3",
-  "version": "1.0.0",
-  "description": "自动将聊天消息加载数强制设置为3，解决卡顿问题。每次启动和设置变更时自动生效。",
-  "js": "index.js",
-  "author": "Custom",
-  "requires": [],
-  "auto_update": false
+    "manifest_version": 1,
+    "id": "force-chat-truncation-3",
+    "display_name": "强制消息加载数=3",
+    "version": "1.1.0",
+    "description": "自动将聊天消息加载数强制设置为3，解决卡顿问题。每次启动和设置变更时自动生效。",
+    "js": "index.js",
+    "author": "Custom",
+    "requires": [],
+    "auto_update": false
 }
